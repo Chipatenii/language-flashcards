@@ -1,4 +1,3 @@
-```markdown
 # Language Learning Flashcards App
 
 ## Table of Contents
