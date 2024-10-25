@@ -1,5 +1,3 @@
-Here's the full content you can copy and paste directly into your `README.md` file:
-
 ```markdown
 # Language Learning Flashcards App
 
